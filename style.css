@@ -27,7 +27,7 @@ main {
     flex-direction: column;
     align-items: center;
     max-height: 600px;
-    width: 350px;
+    max-width: 370px;
     background-color: hsl(0, 0%, 12%);
     border-radius: 12px;
     padding: 25px;
